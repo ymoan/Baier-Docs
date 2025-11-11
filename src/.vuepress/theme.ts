@@ -4,7 +4,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://Yunzai-Bot.com",
+  hostname: "https://docs.yunz.cc",
 
   author: {
     name: "云墨安",
@@ -15,7 +15,7 @@ export default hopeTheme({
 
   fullscreen: true,
 
-  repo: "DenFengLai/Yunzai-Docs",
+  repo: "ymoan/Baier-Docs",
 
   docsDir: "src",
   
@@ -86,7 +86,7 @@ export default hopeTheme({
     
     // comment: {
     //   provider: "Waline",
-    //   serverURL: "https://waline.dengfenglai.icu/",
+    //   serverURL: "https://ymoan.net",
     // },
 
     components: {
