@@ -25,7 +25,7 @@ features:
     icon: rocket
     details: 大量教程帮助用户快速使用
 
-  - title: 多重使用方法
+  - title: 多重使用范围
     icon: microchip
     details: 支持群聊/私聊/频道
 
@@ -36,10 +36,10 @@ features:
 
   - title: 功能支持
     icon: puzzle-piece
-    details: 拥有大量开源且免费的插件供用户安装使用
+    details: 拥有大量的功能供用户使用
  
 
-  - title: 持续维护更新
+  - title: 维护更新
     icon: users
     details: 持续更新维护
   
