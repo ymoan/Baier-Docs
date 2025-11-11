@@ -1,4 +1,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://Yunzai-Bot.com/sitemap.xml
+Sitemap: https://docs.yunz.cc/sitemap.xml
