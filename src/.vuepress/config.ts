@@ -6,8 +6,8 @@ export default defineUserConfig({
   base: "/",
   
   lang: "zh-CN",
-  title: "文档演示",
-  description: "vuepress-theme-hope 的文档演示",
+  title: "白厄QBOT文档",
+  description: "白厄QQBOT文档",
 
   theme,
 
