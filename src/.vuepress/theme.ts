@@ -1,20 +1,12 @@
 import { hopeTheme } from "vuepress-theme-hope";
-
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
-  author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
-  },
-
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
-
-  repo: "ymoan/Baier-Docs",
-
+  logo: "https://theme-hope-assets.vuejs.press/logo.svg", // 若想换自己的logo，可改为 "/你的logo.png"（放在.vuepress/public文件夹）
+  repo: "ymoan/Baier-Docs", 
   docsDir: "src",
 
   // 导航栏
@@ -117,10 +109,8 @@ export default hopeTheme({
     // sandpack: true,
   },
 
-  // 在这里配置主题提供的插件
+  // 在这里配置主题提供的插件（已移除 comment 配置 → 关闭评论功能）
   plugins: {
-    // 注意: 仅用于测试! 你必须自行生成并在生产环境中使用自己的评论服务
-
     components: {
       components: ["Badge", "VPCard"],
     },
