@@ -13,13 +13,13 @@ export default sidebar({
     {
       text: "配置",
       icon: "book",
-      prefix: "help/",
+      prefix: "config/",
       children: "structure",
     },
     {
       text: "教程",
       icon: "person-chalkboard",
-      prefix: "help/",
+      prefix: "tutorial/",
       children: "structure",
     },
   ],
